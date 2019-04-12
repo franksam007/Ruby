@@ -1,4 +1,4 @@
-
+From https://github.com/ruby-i18n/i18n/wiki/Fallbacks
 
 (copypasta from "Sven's blog post":http://svenfuchs.com/2009/7/19/experimental-ruby-i18n-extensions-pluralization-fallbacks-gettext-cache-and-chained-backend)
 
